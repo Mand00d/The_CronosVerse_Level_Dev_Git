@@ -1,0 +1,192 @@
+[+] Containers:
+ |- [+] Container: /Game/ThirdPerson/Maps/Chimp_Jumper_1
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:1BC8744248B6A272491C72A46C88DE3D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D9A0C701_1968016497 Label:Shape_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3540.000 Y=-325.000 Z=2240.000), Max=(X=3640.000 Y=325.000 Z=3140.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1CC764C1461B4795A7D1F2A0370735BB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D9A0C701_2134891501 Label:SM_Log_Platform2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3315.000 Y=-375.000 Z=3130.000), Max=(X=3645.000 Y=375.000 Z=3160.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:203D52E04A56E88F8FB3459AE537B85D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:213279834EE3845B8533D88B53FBF9B9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D99FC701_1137728287 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6900.000 Y=-250.000 Z=-360.000), Max=(X=6900.000 Y=250.000 Z=340.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2150C6304271CB24993E98A16B20D4E6 BaseClass:/Game/LevelPrototyping/Chimp_Game/Meshes/BP_Animation_Shift_Platform.BP_Animation_Shift_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1891770493 Label:BP_Animation_Shift_Platform4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2680.000 Y=-75.000 Z=1000.000), Max=(X=2980.000 Y=175.000 Z=1010.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:287D49CB44AE1162EB85CCA51E00EC09 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:2910D9E14A44FB103445F492BAC74891 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:2A6A27E5471DAAADB08587A71678B1EB BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:450472544024B34F2F6403AAB3EA2687 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:5C292C024DAADC733DB52591FBC442B3 BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_A85E45CD68D99FC701_1481524291 Label:BlockingVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-10350.000 Y=90.000 Z=-425.000), Max=(X=10350.000 Y=110.000 Z=10425.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:61AFE2AC427C0B7A4C0FCDA5836941F4 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:6927209542F871FC36E850B9A6E1D454 BaseClass:/Game/LevelPrototyping/Chimp_Game/Meshes/BP_Animation_Shift_Platform.BP_Animation_Shift_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1925507495 Label:BP_Animation_Shift_Platform6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3500.000 Y=-75.000 Z=1430.000), Max=(X=3800.000 Y=175.000 Z=1440.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6D85A59B4BBE0787BD55C8ADA186FF00 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D9A1C701_1301250680 Label:Plane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6975.000 Y=-500.000 Z=-3035.000), Max=(X=7975.000 Y=-500.000 Z=10615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:71C524404A6350C968FA68861CF53750 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D99FC701_1281707288 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6900.000 Y=-250.000 Z=-0.000), Max=(X=-5100.000 Y=250.000 Z=10000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7BB2A6124D5A060EDC634085CC3B691A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D9A0C701_1395630486 Label:SM_Log_Platform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5121.250 Y=-312.500 Z=840.000), Max=(X=-1903.750 Y=312.500 Z=870.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:887921304033C1B7B79BA08DBCC4E8DB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4890.000 Y=10.000 Z=408.000), Max=(X=-4810.000 Y=90.000 Z=592.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:88BA5F2C45047A530729C49C2297D714 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D9A0C701_1977636498 Label:Shape_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3540.000 Y=-325.000 Z=2190.000), Max=(X=4440.000 Y=325.000 Z=2290.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9697FC2347FB4B733DAB9C91DDF8F90C BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:9EEE4D6C420A4B54FEA312B572D1C67F BaseClass:/Game/LevelPrototyping/Chimp_Game/Meshes/BP_Animation_Shift_Platform.BP_Animation_Shift_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1932605496 Label:BP_Animation_Shift_Platform7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4450.000 Y=-75.000 Z=1800.000), Max=(X=4750.000 Y=175.000 Z=1810.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A2544CB24BCC8D7312176992632132D8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D99FC701_1454369290 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5100.000 Y=-250.000 Z=-0.000), Max=(X=6900.000 Y=250.000 Z=10000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BFAB60884E5B2C8083095A84ACA2B59D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D9A1C701_1116089678 Label:Shape_Pipe SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3865.000 Y=-450.000 Z=2290.000), Max=(X=3895.000 Y=450.000 Z=2320.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C3225E724BE623C6759496B27B7F3A3D BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_A85E45CD68D99FC701_1661478292 Label:BlockingVolume2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-10350.000 Y=-10.000 Z=-425.000), Max=(X=10350.000 Y=10.000 Z=10425.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C804B4844D202B0DE200EBA9F0051A2E BaseClass:/Game/LevelPrototyping/Chimp_Game/Meshes/BP_Animation_Shift_Platform.BP_Animation_Shift_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1912618494 Label:BP_Animation_Shift_Platform5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3500.000 Y=-75.000 Z=800.000), Max=(X=3800.000 Y=175.000 Z=810.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C866C77B43AAB9AB145E36A82FB49C69 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:C8F5EF6547967F2511721E84E689246A BaseClass:/Game/LevelPrototyping/Chimp_Game/Meshes/BP_Animation_Shift_Platform.BP_Animation_Shift_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1628409488 Label:BP_Animation_Shift_Platform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1420.000 Y=-75.000 Z=650.000), Max=(X=-1120.000 Y=175.000 Z=660.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DF010A3A470B7AFB76410EAD8E075C06 BaseClass:/Game/LevelPrototyping/Chimp_Game/Meshes/BP_Animation_Shift_Platform.BP_Animation_Shift_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1840501490 Label:BP_Animation_Shift_Platform3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1130.000 Y=-75.000 Z=1350.000), Max=(X=1430.000 Y=175.000 Z=1360.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EA323E2A41F823DC9EC90C88F813CF46 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D9A0C701_1463571487 Label:Shape_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2010.000 Y=-325.000 Z=870.000), Max=(X=-1910.000 Y=325.000 Z=1770.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:ECB9C99F45BF4C93E1EAE08CA736BBD5 BaseClass:/Game/LevelPrototyping/Chimp_Game/Meshes/BP_Animation_Shift_Platform.BP_Animation_Shift_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1999904500 Label:BP_Animation_Shift_Platform8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4910.000 Y=-125.000 Z=2540.000), Max=(X=5110.000 Y=125.000 Z=2550.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FA44C10A4DB8C8B6C531328DE41102B2 BaseClass:/Game/LevelPrototyping/Chimp_Game/Meshes/BP_Animation_Shift_Platform.BP_Animation_Shift_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1694621489 Label:BP_Animation_Shift_Platform2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=790.000 Y=-75.000 Z=1000.000), Max=(X=1090.000 Y=175.000 Z=1010.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:1BC8744248B6A272491C72A46C88DE3D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D9A0C701_1968016497 Label:Shape_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3540.000 Y=-325.000 Z=2240.000), Max=(X=3640.000 Y=325.000 Z=3140.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:1CC764C1461B4795A7D1F2A0370735BB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D9A0C701_2134891501 Label:SM_Log_Platform2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3315.000 Y=-375.000 Z=3130.000), Max=(X=3645.000 Y=375.000 Z=3160.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:203D52E04A56E88F8FB3459AE537B85D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:213279834EE3845B8533D88B53FBF9B9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D99FC701_1137728287 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6900.000 Y=-250.000 Z=-360.000), Max=(X=6900.000 Y=250.000 Z=340.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:2150C6304271CB24993E98A16B20D4E6 BaseClass:/Game/LevelPrototyping/Chimp_Game/Meshes/BP_Animation_Shift_Platform.BP_Animation_Shift_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1891770493 Label:BP_Animation_Shift_Platform4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2680.000 Y=-75.000 Z=1000.000), Max=(X=2980.000 Y=175.000 Z=1010.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:287D49CB44AE1162EB85CCA51E00EC09 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:2910D9E14A44FB103445F492BAC74891 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:2A6A27E5471DAAADB08587A71678B1EB BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:450472544024B34F2F6403AAB3EA2687 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:5C292C024DAADC733DB52591FBC442B3 BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_A85E45CD68D99FC701_1481524291 Label:BlockingVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-10350.000 Y=90.000 Z=-425.000), Max=(X=10350.000 Y=110.000 Z=10425.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:61AFE2AC427C0B7A4C0FCDA5836941F4 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:6927209542F871FC36E850B9A6E1D454 BaseClass:/Game/LevelPrototyping/Chimp_Game/Meshes/BP_Animation_Shift_Platform.BP_Animation_Shift_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1925507495 Label:BP_Animation_Shift_Platform6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3500.000 Y=-75.000 Z=1430.000), Max=(X=3800.000 Y=175.000 Z=1440.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:6D85A59B4BBE0787BD55C8ADA186FF00 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D9A1C701_1301250680 Label:Plane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6975.000 Y=-500.000 Z=-3035.000), Max=(X=7975.000 Y=-500.000 Z=10615.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:71C524404A6350C968FA68861CF53750 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D99FC701_1281707288 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6900.000 Y=-250.000 Z=-0.000), Max=(X=-5100.000 Y=250.000 Z=10000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:7BB2A6124D5A060EDC634085CC3B691A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D9A0C701_1395630486 Label:SM_Log_Platform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5121.250 Y=-312.500 Z=840.000), Max=(X=-1903.750 Y=312.500 Z=870.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:887921304033C1B7B79BA08DBCC4E8DB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4890.000 Y=10.000 Z=408.000), Max=(X=-4810.000 Y=90.000 Z=592.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:88BA5F2C45047A530729C49C2297D714 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D9A0C701_1977636498 Label:Shape_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3540.000 Y=-325.000 Z=2190.000), Max=(X=4440.000 Y=325.000 Z=2290.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:9697FC2347FB4B733DAB9C91DDF8F90C BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:9EEE4D6C420A4B54FEA312B572D1C67F BaseClass:/Game/LevelPrototyping/Chimp_Game/Meshes/BP_Animation_Shift_Platform.BP_Animation_Shift_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1932605496 Label:BP_Animation_Shift_Platform7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4450.000 Y=-75.000 Z=1800.000), Max=(X=4750.000 Y=175.000 Z=1810.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:A2544CB24BCC8D7312176992632132D8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D99FC701_1454369290 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5100.000 Y=-250.000 Z=-0.000), Max=(X=6900.000 Y=250.000 Z=10000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:BFAB60884E5B2C8083095A84ACA2B59D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D9A1C701_1116089678 Label:Shape_Pipe SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3865.000 Y=-450.000 Z=2290.000), Max=(X=3895.000 Y=450.000 Z=2320.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:C3225E724BE623C6759496B27B7F3A3D BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_A85E45CD68D99FC701_1661478292 Label:BlockingVolume2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-10350.000 Y=-10.000 Z=-425.000), Max=(X=10350.000 Y=10.000 Z=10425.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:C804B4844D202B0DE200EBA9F0051A2E BaseClass:/Game/LevelPrototyping/Chimp_Game/Meshes/BP_Animation_Shift_Platform.BP_Animation_Shift_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1912618494 Label:BP_Animation_Shift_Platform5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3500.000 Y=-75.000 Z=800.000), Max=(X=3800.000 Y=175.000 Z=810.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:C866C77B43AAB9AB145E36A82FB49C69 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:C8F5EF6547967F2511721E84E689246A BaseClass:/Game/LevelPrototyping/Chimp_Game/Meshes/BP_Animation_Shift_Platform.BP_Animation_Shift_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1628409488 Label:BP_Animation_Shift_Platform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1420.000 Y=-75.000 Z=650.000), Max=(X=-1120.000 Y=175.000 Z=660.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:DF010A3A470B7AFB76410EAD8E075C06 BaseClass:/Game/LevelPrototyping/Chimp_Game/Meshes/BP_Animation_Shift_Platform.BP_Animation_Shift_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1840501490 Label:BP_Animation_Shift_Platform3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1130.000 Y=-75.000 Z=1350.000), Max=(X=1430.000 Y=175.000 Z=1360.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:EA323E2A41F823DC9EC90C88F813CF46 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A85E45CD68D9A0C701_1463571487 Label:Shape_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2010.000 Y=-325.000 Z=870.000), Max=(X=-1910.000 Y=325.000 Z=1770.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:ECB9C99F45BF4C93E1EAE08CA736BBD5 BaseClass:/Game/LevelPrototyping/Chimp_Game/Meshes/BP_Animation_Shift_Platform.BP_Animation_Shift_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1999904500 Label:BP_Animation_Shift_Platform8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4910.000 Y=-125.000 Z=2540.000), Max=(X=5110.000 Y=125.000 Z=2550.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:FA44C10A4DB8C8B6C531328DE41102B2 BaseClass:/Game/LevelPrototyping/Chimp_Game/Meshes/BP_Animation_Shift_Platform.BP_Animation_Shift_Platform_C NativeClass:/Script/Engine.Actor Name:BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1694621489 Label:BP_Animation_Shift_Platform2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=790.000 Y=-75.000 Z=1000.000), Max=(X=1090.000 Y=175.000 Z=1010.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/ThirdPerson/Maps/Chimp_Jumper_1
+----------------------------------------------------------------------------------------------------------------
+Chimp_Jumper_1 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Chimp_Jumper_1 Persistent Level
+ |- Always loaded Actor Count: 36 
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/ThirdPerson/Maps/Chimp_Jumper_1
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.BlockingVolume_UAID_A85E45CD68D99FC701_1481524291
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/9/N8/WXOQDHOSBZL6ULTSR0VWU4
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.BlockingVolume_UAID_A85E45CD68D99FC701_1661478292
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/3/PF/32LV4A5M4X8MNZISCOHSZ7
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1628409488
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/8/CJ/Q3CU975WWUXK7GAXG3R3U8
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1694621489
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/6/Y2/XNIJ5KAR4SSPF8I7E6ZGI4
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1840501490
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/9/2B/H6MLL3VNTN3M3YJ8FLGXJQ
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1891770493
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/B/O2/1WBXRJCY4XLXXCRRE92MK0
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1912618494
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/9/F0/OOPIEZS5XSZKZTWB8XP7U1
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1925507495
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/E/5I/J38JUZJP4T3NQI1EXTUZMI
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1932605496
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/8/UV/DTI5AC3FAUQA4Y702J8QVC
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.BP_Animation_Shift_Platform_C_UAID_A85E45CD68D9A0C701_1999904500
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/9/OZ/5PQ66YPZHL8OA5WV63IO68
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.Brush_0
+ |- Actor Package: /Game/ThirdPerson/Maps/Chimp_Jumper_1
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/ThirdPerson/Maps/Chimp_Jumper_1
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.DirectionalLight_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/F/4I/DXE27T0SF5D3CNTYEUN7ZI
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/9/Q3/6X44LBWPQZVY8J7NASXYOY
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/ThirdPerson/Maps/Chimp_Jumper_1
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/E/0O/JY29YU4KBNOA0BGD5GG9ON
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/A/YE/JLORQUKR37HQZYQ12T0HZT
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/C/ID/WL9Z5BCAFSBCG184URORAP
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.SkyLight_1
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/0/PE/ECP1F5B137UP3RRYPPLF0X
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/8/OK/1WR6G2YNCKBBRLPAD8RH2Y
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.StaticMeshActor_UAID_A85E45CD68D99FC701_1137728287
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/E/M0/FR8RWR7JXKKYE3DKMQVY42
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.StaticMeshActor_UAID_A85E45CD68D99FC701_1281707288
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/E/OD/D78LB09WANC0Y6KQ37W1FW
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.StaticMeshActor_UAID_A85E45CD68D99FC701_1454369290
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/1/4I/A0VSAYUEN9URD7FIXTKUBC
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.StaticMeshActor_UAID_A85E45CD68D9A0C701_1395630486
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/6/K5/0PXVWZQKEBEOKNGP8CL06Q
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.StaticMeshActor_UAID_A85E45CD68D9A0C701_1463571487
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/9/LC/PZ4Q6D0USQRJIYG9KXHO3B
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.StaticMeshActor_UAID_A85E45CD68D9A0C701_1968016497
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/2/YF/ZW5IEUBZGH5ZHFN220825T
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.StaticMeshActor_UAID_A85E45CD68D9A0C701_1977636498
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/7/5H/8QHJMKTAOCL38CWACV5A00
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.StaticMeshActor_UAID_A85E45CD68D9A0C701_2134891501
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/D/1J/2DZ5VPN9HE34OJAJD47X6I
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.StaticMeshActor_UAID_A85E45CD68D9A1C701_1116089678
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/C/4A/NXS5ADJTTX8ZNX8PSGLITP
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.StaticMeshActor_UAID_A85E45CD68D9A1C701_1301250680
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/9/FK/PX5YI58IOLY0Z8WCA4PA6L
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.ThirdPersonMap1_C_1
+ |- Actor Package: /Game/ThirdPerson/Maps/Chimp_Jumper_1
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/9/4A/L2147YFKLTLX7ZVC63C27X
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/3/DU/IY5WAUDRDKPIUHK41KAMUJ
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/ThirdPerson/Maps/Chimp_Jumper_1
+ |- Actor Path: /Game/ThirdPerson/Maps/Chimp_Jumper_1.Chimp_Jumper_1:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Chimp_Jumper_1/9/KC/1F1MXV4VO7KAJBER1OBOX4
+
+----------------------------------------------------------------------------------------------------------------
+Chimp_Jumper_1 - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
